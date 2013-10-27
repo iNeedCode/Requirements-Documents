@@ -1,1 +1,1 @@
-[link](http://uweziegenhagen.de/?p=2123)
+Inpired by [this](http://uweziegenhagen.de/?p=2123) latex template!
